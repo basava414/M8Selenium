@@ -10,6 +10,6 @@ public class Sample {
 		System.out.println("practicing sample");
 		System.out.println("practice GitHub");
 		System.out.println("Boss");
-		System.out.println("Basavaraj Rajur");
+		System.out.println("BasavarajRajur");
 	}
 }
